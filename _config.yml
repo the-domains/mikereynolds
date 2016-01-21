@@ -1,0 +1,28 @@
+name: mikereynolds
+favicon: null
+layout_spectrum: 0.06777606159448624
+typography_spectrum: 0.27121605281718075
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.8340507186949253
+  lightness: 0.5873987392988056
+  saturation: 0.556752479635179
+  rhythmicContrast: 0.6096936631947756
+purpose: []
