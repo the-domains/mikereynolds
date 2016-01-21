@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.mikereynolds.org/writing/refugees-are-not-homeless-by-choice'
 title: Refugees are not Homeless by Choice
-datePublished: '2016-01-21T19:15:15.972Z'
-dateModified: '2016-01-21T19:14:41.808Z'
+datePublished: '2016-01-21T19:23:19.147Z'
+dateModified: '2016-01-21T19:19:24.320Z'
 sourcePath: _posts/2016-01-21-refugees-are-not-homeless-by-choice.md
 published: true
 inFeed: true
