@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[mikereynolds]]></title>
+        <description><![CDATA[mikereynolds]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 21 Jan 2016 19:13:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Winter storm: Washington gets a snowy surprise - CNN.com]]></title>
+            <description><![CDATA[<article><h1>Winter storm: Washington gets a snowy surprise - CNN.com</h1><p>While the nation's capital was focused squarely on an epic weekend blizzard, a relatively light dusting left the metropolitan area a slippery mess. With less than an inch of snow forecast, most roads were left untreated. Virginia State Police untangled accidents by the dozens Wednesday evening.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/14fcfe00dfbb008af28dd381b84eb2c85ab8cf76.jpg"></article>]]></description>
+            <link>http://www.cnn.com/2016/01/21/us/winter-snowstorm-washington-blizzard/index.html</link>
+            <guid isPermaLink="false">d8054052-4e3c-4538-9474-ac0f3da24114</guid>
+            <pubDate>Thu, 21 Jan 2016 19:13:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
