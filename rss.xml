@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[mikereynolds]]></title>
         <description><![CDATA[mikereynolds]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mikereynolds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 02:40:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 02:42:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mikereynolds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I am so grateful for the impact that Calvin's Institutes of The Christian Religion is having on me. I listen to it as an audiobook, make notes in the Audible app where there is some extraordinary insight, then return to those things in the printed work. This system is working out well so far. </p>]]></description>
-            <link>undefined3ac52f75-acaa-4995-ae45-58681caceb23/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/988b0928-b987-4828-ab67-baca21d269b3.jpg">]]></description>
+            <link>https://thegrid.ai/mikereynolds/3ac52f75-acaa-4995-ae45-58681caceb23/index.html</link>
             <guid isPermaLink="false">3ac52f75-acaa-4995-ae45-58681caceb23</guid>
-            <pubDate>Fri, 22 Jan 2016 02:40:12 GMT</pubDate>
+            <pubDate>Fri, 22 Jan 2016 02:42:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
