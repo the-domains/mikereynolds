@@ -1,9 +1,7 @@
-favicon: null
 name: mikereynolds
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.50479
+typography_spectrum: 0.2712160528171808
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.556752479635179
-  brandStrength: 0.8340507186949253
-  rhythmicContrast: 0.6096936631947756
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  brandStrength: 0.8340507186949253
   lightness: 0.5873987392988056
-typography_spectrum: 0.2712160528171808
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.9103943
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.556752479635179
+  rhythmicContrast: 0.6096936631947756
+purpose: []
