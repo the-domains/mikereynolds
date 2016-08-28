@@ -1,7 +1,34 @@
-name: mikereynolds
-favicon: null
-layout_spectrum: 0.65445
 typography_spectrum: 0.25798
+color:
+  brandColors:
+    - '#383838'
+    - '#cecece'
+    - '#9f9f9f'
+    - '#767676'
+    - '#ebebeb'
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.65445
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: mikereynolds
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Writing
+    id: 362a5487-a60a-4b30-9b4b-16cf36612fa2
+    type: content
+favicon: null
 collections:
   - index:
       path: /
@@ -14,27 +41,4 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#383838'
-    - '#cecece'
-    - '#9f9f9f'
-    - '#767676'
-    - '#ebebeb'
-  brandStrength: 0
-  lightness: 0
-  saturation: 1
-  rhythmicContrast: 1
 purpose: []
