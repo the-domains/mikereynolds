@@ -1,11 +1,14 @@
 ---
-datePublished: '2016-08-27T17:36:04.799Z'
+datePublished: '2016-08-27T17:37:26.592Z'
+sourcePath: >-
+  _posts/2016-08-27-i-have-often-felt-like-there-were-two-realities-to-the-chris.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-27T17:36:03.078Z'
-title: ''
-publisher: {}
+dateModified: '2016-08-27T17:37:03.899Z'
+title: Romans 15
+publisher:
+  name: Michael Reynolds
 description: >-
   I have often felt like there were two realities to the Christian life, the
   reality of sin, flesh, and the devil and the reality of God, redemption, and
@@ -17,11 +20,10 @@ description: >-
   but that he is commanding us to use different faculties to see the same
   reality.
 starred: false
-sourcePath: >-
-  _posts/2016-08-27-i-have-often-felt-like-there-were-two-realities-to-the-chris.md
 _type: Blurb
 
 ---
+# Romans 15
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/51a57b50-b57b-4702-9216-10974ad53d2a.jpg)
 
 > May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope
