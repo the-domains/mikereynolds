@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T19:02:17.200Z'
+datePublished: '2016-08-31T19:07:00.645Z'
 sourcePath: >-
   _posts/2016-08-31-the-essence-of-the-baptism-of-the-holy-spirit-is-that-it-is.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T19:02:16.258Z'
+dateModified: '2016-08-31T19:06:59.714Z'
 title: Baptism for Boldness
 publisher: {}
 description: >-
