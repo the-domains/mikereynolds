@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-31T19:03:27.765Z'
+datePublished: '2016-08-31T19:07:08.926Z'
 sourcePath: >-
   _posts/2016-08-31-my-interest-was-first-peaked-in-the-book-of-job-early-in-201.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T19:03:26.981Z'
+dateModified: '2016-08-31T19:07:07.883Z'
 title: Leviathan and God’s Sovereignty
 publisher: {}
 description: >-
