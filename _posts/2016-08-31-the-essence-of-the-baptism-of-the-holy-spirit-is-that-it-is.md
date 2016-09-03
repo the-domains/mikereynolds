@@ -1,10 +1,13 @@
 ---
-datePublished: '2016-08-31T19:01:51.733Z'
-inFeed: true
+datePublished: '2016-08-31T19:02:17.200Z'
+sourcePath: >-
+  _posts/2016-08-31-the-essence-of-the-baptism-of-the-holy-spirit-is-that-it-is.md
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T19:01:19.994Z'
-title: ''
+dateModified: '2016-08-31T19:02:16.258Z'
+title: Baptism for Boldness
 publisher: {}
 description: >-
   The essence of the baptism of the Holy Spirit is that it is graciously given
@@ -17,11 +20,12 @@ description: >-
   pattern of the New Testament baptism with the Holy Spirit and I want to
   examine a handful of scriptures that will prove and clarify this very point.
 starred: false
-sourcePath: >-
-  _posts/2016-08-31-the-essence-of-the-baptism-of-the-holy-spirit-is-that-it-is.md
+url: baptism-for-boldness/index.html
 _type: Blurb
 
 ---
+# Baptism for Boldness
+
 The essence of the baptism of the Holy Spirit is that it is graciously given by Jesus for assurance and power._It is given by Jesus for **assurance** and **power**._ The primary reason that we see this baptism taking place is to give supernatural assurance; through giving that supernatural assurance power follows. It is the power of God to convince you that what you have believed is abundantly true. With this baptism you are filled with a willingness to abandon all of your life to the will of God and to exalt his name. This is the pattern of the New Testament baptism with the Holy Spirit and I want to examine a handful of scriptures that will prove and clarify this very point.
 
 **Starting with Jesus we read in Luke 3:21-22 (cf Matt 3:16)**,
