@@ -25,11 +25,11 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: About
-    id: 19e296c9-4545-4dea-a423-347994624ccd
-    type: content
   - name: Words
     id: 6c287d78-7f27-4687-b8df-a6e308aade82
+    type: content
+  - name: About
+    id: 19e296c9-4545-4dea-a423-347994624ccd
     type: content
 favicon: null
 collections:
