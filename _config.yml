@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: Writing
+  - name: Words
     id: 362a5487-a60a-4b30-9b4b-16cf36612fa2
     type: content
 favicon: null
