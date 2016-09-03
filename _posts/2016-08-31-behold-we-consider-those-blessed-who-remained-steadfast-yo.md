@@ -1,23 +1,25 @@
 ---
-datePublished: '2016-08-31T18:55:12.790Z'
+datePublished: '2016-08-31T19:04:20.892Z'
 sourcePath: >-
   _posts/2016-08-31-behold-we-consider-those-blessed-who-remained-steadfast-yo.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T18:55:11.959Z'
-title: ''
+dateModified: '2016-08-31T19:04:20.165Z'
+title: 'Job’s Vision of God’s Compassion and Mercy '
 publisher: {}
 description: >-
   Behold, we consider those blessed who remained steadfast. You have heard of
   the steadfastness of Job, and you have seen the purpose of the Lord, how the
   Lord is compassionate and merciful. - James 5:11
-hasPage: true
 starred: false
 url: behold-we-consider-those-blessed-who-remained-steadfast-yo/index.html
 _type: Article
 
 ---
+# Job's Vision of God's Compassion and Mercy 
+
 Behold, we consider those blessed who remained steadfast. You have heard of the steadfastness of Job, and you have seen the purpose of the Lord, how the Lord is compassionate and merciful. - James 5:11
 
 There are many things that come to mind when considering the book of Job, most of which are not centered upon God's compassion and mercy. I believe the narrative of Job's suffering is a narrative of mercy and compassion of a frequent kind. I have heard many people say that the book of Job brings into question the goodness of God. I have also heard it said that Job is not where we draw our theology from and that Jesus is. On the contrary the gospel of John tells us that Jesus is in every letter of Job when it says, "In the beginning was the Word, and the Word was with God, and the Word was God...the Word became flesh and dwelt among us"(John 1:1, 14).
