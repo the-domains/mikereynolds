@@ -1,19 +1,21 @@
 ---
-datePublished: '2016-08-31T18:39:26.443Z'
+datePublished: '2016-08-31T18:55:12.790Z'
 sourcePath: >-
   _posts/2016-08-31-behold-we-consider-those-blessed-who-remained-steadfast-yo.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T18:39:25.748Z'
+dateModified: '2016-08-31T18:55:11.959Z'
 title: ''
 publisher: {}
 description: >-
   Behold, we consider those blessed who remained steadfast. You have heard of
   the steadfastness of Job, and you have seen the purpose of the Lord, how the
   Lord is compassionate and merciful. - James 5:11
+hasPage: true
 starred: false
-_type: Blurb
+url: behold-we-consider-those-blessed-who-remained-steadfast-yo/index.html
+_type: Article
 
 ---
 Behold, we consider those blessed who remained steadfast. You have heard of the steadfastness of Job, and you have seen the purpose of the Lord, how the Lord is compassionate and merciful. - James 5:11
