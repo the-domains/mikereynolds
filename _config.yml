@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Words
-    id: 6c287d78-7f27-4687-b8df-a6e308aade82
-    type: content
 favicon: null
 collections:
   - index:
