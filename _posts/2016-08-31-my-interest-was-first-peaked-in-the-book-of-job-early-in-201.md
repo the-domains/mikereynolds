@@ -1,9 +1,12 @@
 ---
-datePublished: '2016-08-31T18:37:58.094Z'
-inFeed: true
+datePublished: '2016-08-31T18:56:17.187Z'
+sourcePath: >-
+  _posts/2016-08-31-my-interest-was-first-peaked-in-the-book-of-job-early-in-201.md
+inFeed: false
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T18:34:31.749Z'
+dateModified: '2016-08-31T18:56:16.276Z'
 title: ''
 publisher: {}
 description: >-
@@ -21,8 +24,7 @@ description: >-
   (John 1:1). God loves the book of Job and he loves it when we read it, know
   it, remain steadfast and refuse to be offended by it.
 starred: false
-sourcePath: >-
-  _posts/2016-08-31-my-interest-was-first-peaked-in-the-book-of-job-early-in-201.md
+url: my-interest-was-first-peaked-in-the-book-of-job-early-in-201/index.html
 _type: Blurb
 
 ---
