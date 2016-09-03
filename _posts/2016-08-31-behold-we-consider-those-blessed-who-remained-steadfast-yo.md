@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-31T19:04:20.892Z'
+datePublished: '2016-08-31T19:07:15.416Z'
 sourcePath: >-
   _posts/2016-08-31-behold-we-consider-those-blessed-who-remained-steadfast-yo.md
-inFeed: true
+inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T19:04:20.165Z'
-title: 'Job’s Vision of God’s Compassion and Mercy '
+dateModified: '2016-08-31T19:07:14.641Z'
+title: Job’s Vision of God’s Compassion and Mercy
 publisher: {}
 description: >-
   Behold, we consider those blessed who remained steadfast. You have heard of
@@ -15,10 +15,10 @@ description: >-
   Lord is compassionate and merciful. - James 5:11
 starred: false
 url: behold-we-consider-those-blessed-who-remained-steadfast-yo/index.html
-_type: Article
+_type: Blurb
 
 ---
-# Job's Vision of God's Compassion and Mercy 
+# Job's Vision of God's Compassion and Mercy
 
 Behold, we consider those blessed who remained steadfast. You have heard of the steadfastness of Job, and you have seen the purpose of the Lord, how the Lord is compassionate and merciful. - James 5:11
 
