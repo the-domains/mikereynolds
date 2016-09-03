@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-31T18:56:17.187Z'
+datePublished: '2016-08-31T19:03:27.765Z'
 sourcePath: >-
   _posts/2016-08-31-my-interest-was-first-peaked-in-the-book-of-job-early-in-201.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-31T18:56:16.276Z'
-title: ''
+dateModified: '2016-08-31T19:03:26.981Z'
+title: Leviathan and God’s Sovereignty
 publisher: {}
 description: >-
   My interest was first peaked in the book of Job early in 2012. I don’t see
@@ -28,6 +28,8 @@ url: my-interest-was-first-peaked-in-the-book-of-job-early-in-201/index.html
 _type: Blurb
 
 ---
+# Leviathan and God's Sovereignty
+
 My interest was first peaked in the book of Job early in 2012\. I don't see anything potentially more challenging to our contemporary Christianity than this book. It is at odds with all that is hellish and any remnant of hellishness in us will perhaps be revealed in the exposition of this book. It is considered by most scholars to be the earliest of the Old Testament books and my two cents would be that if we can stomach what the book of Job contains then we are on a good foundation to take in the rest of the Bible. If you will wrestle with God's word in Job you will be rewarded; that is if you don't cop-out with easy excuses saying "I follow Jesus and not Job" as though Christ could be separated from his word. Before I continue remember that "In the beginning was the Word, and the Word was with God, and the Word was God." (John 1:1). God loves the book of Job and he loves it when we read it, know it, remain steadfast and refuse to be offended by it.
 
 I want to seek to answer who _Leviathan _in Job 41 is in order to establish something else that is much more glorious.
