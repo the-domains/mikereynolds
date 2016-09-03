@@ -19,7 +19,7 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: mikereynolds
+name: michaelreynolds
 cta:
   domain: null
   bucket: null
@@ -27,6 +27,9 @@ cta:
 navigation:
   - name: Words
     id: 362a5487-a60a-4b30-9b4b-16cf36612fa2
+    type: content
+  - name: About
+    id: 19e296c9-4545-4dea-a423-347994624ccd
     type: content
 favicon: null
 collections:
