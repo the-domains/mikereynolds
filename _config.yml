@@ -31,9 +31,6 @@ navigation:
   - name: Job’s Vision of God’s Compassion and Mercy
     id: 6c287d78-7f27-4687-b8df-a6e308aade82
     type: content
-  - name: Baptism for Boldness
-    id: 7be14d1a-3f91-4c1f-b610-909dad14f708
-    type: content
 favicon: null
 collections:
   - index:
