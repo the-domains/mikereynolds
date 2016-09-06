@@ -34,6 +34,9 @@ navigation:
   - name: Baptism for Boldness
     id: 7be14d1a-3f91-4c1f-b610-909dad14f708
     type: content
+  - name: Videos
+    id: 64b65732-f391-4ed7-9471-bc8fb129212b
+    type: content
 favicon: null
 collections:
   - index:
