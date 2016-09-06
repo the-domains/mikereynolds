@@ -1,4 +1,3 @@
-layout_spectrum: 0.8842710223980248
 typography_spectrum: 0.28383956430479884
 color:
   brandColors:
@@ -15,6 +14,7 @@ opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.8842710223980248
 analytics:
   google: null
   facebook: null
@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: About
-    id: 19e296c9-4545-4dea-a423-347994624ccd
-    type: content
 favicon: null
 collections:
   - index:
