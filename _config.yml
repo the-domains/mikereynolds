@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Pictures
-    id: 5f9ed6cc-1a87-4b8c-80e2-c5cf36151bee
-    type: content
 favicon: null
 collections:
   - index:
