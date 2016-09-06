@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-09-02T13:04:40.603Z'
+datePublished: '2016-09-02T13:07:18.911Z'
 sourcePath: >-
   _posts/2016-08-31-behold-we-consider-those-blessed-who-remained-steadfast-yo.md
 inFeed: false
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-02T13:04:39.840Z'
+dateModified: '2016-09-02T13:07:18.132Z'
 title: Job’s Vision of God’s Compassion and Mercy
 publisher: {}
 description: >-
