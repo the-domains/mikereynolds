@@ -41,6 +41,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: An American
+title: ''
 description: Living in Iraq
 purpose: []
