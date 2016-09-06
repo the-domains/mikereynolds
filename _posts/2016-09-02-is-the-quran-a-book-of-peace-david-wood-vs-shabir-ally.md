@@ -62,16 +62,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://www.youtube.com/watch?v=Foiu6jsI3SY'
 title: Is the Qur'an a Book of Peace? David Wood vs Shabir Ally
-datePublished: '2016-09-02T12:45:51.048Z'
-dateModified: '2016-09-02T12:45:28.900Z'
+datePublished: '2016-09-02T12:46:15.422Z'
+dateModified: '2016-09-02T12:46:14.641Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-09-02-is-the-quran-a-book-of-peace-david-wood-vs-shabir-ally.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: true
+url: is-the-quran-a-book-of-peace-david-wood-vs-shabir-ally/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
