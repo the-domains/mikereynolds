@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[The American]]></title>
-        <description><![CDATA[The American]]></description>
+        <title><![CDATA[An American]]></title>
+        <description><![CDATA[An American]]></description>
         <link>https://thegrid.ai/mikereynolds/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 19:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2016 12:46:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mikereynolds/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/mikereynolds/19e296c9-4545-4dea-a423-347994624ccd/index.html</link>
             <guid isPermaLink="false">19e296c9-4545-4dea-a423-347994624ccd</guid>
             <pubDate>Wed, 31 Aug 2016 18:54:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Is the Qur'an a Book of Peace? David Wood vs Shabir Ally]]></title>
+            <description><![CDATA[<article><h1>Is the Qur'an a Book of Peace? David Wood vs Shabir Ally</h1><p>In this Debate, David Wood and Shabir Ally debate one of the most important topic in history. This debate took place on October 5th at the University of Tennessee at Chattanooga on the topic: Is the Qur'an a Book of Peace?"</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Foiu6jsI3SY</link>
+            <guid isPermaLink="false">64b65732-f391-4ed7-9471-bc8fb129212b</guid>
+            <pubDate>Fri, 02 Sep 2016 12:45:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
