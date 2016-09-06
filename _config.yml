@@ -24,10 +24,6 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - name: Baptism for Boldness
-    id: 7be14d1a-3f91-4c1f-b610-909dad14f708
-    type: content
 favicon: null
 collections:
   - index:
